@@ -1,0 +1,14 @@
+name: VIPItems
+main: MariusB\main
+version: 1.0
+api: [1.1.0]
+author: MariusB
+load: postworld
+permissions:
+  vipitems:
+    description: "Allows access to all VIPItems features."
+    default: op
+children:
+  vipitems.receive:
+    description: "Allows access to receiving VIPItems when you spawn."
+    default: true
