@@ -1,0 +1,15 @@
+# Config file for VIPItems by MariusB;
+
+# List of items to give players when they spawn; Format: ID:Damage:Amount
+items:
+- "272:0:1"
+- "17:0:16"
+- "364:0:5"
+# List of worlds items are given in; Format: worldname (from worlds folder)
+worlds:
+- world
+- world2
+- world3
+- world4
+- world5
+
